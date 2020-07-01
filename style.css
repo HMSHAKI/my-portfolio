@@ -66,6 +66,10 @@ section {
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
 }
+#experiences {
+    margin-left: 5%;
+    padding-left: 2%;
+}
 footer {
     text-align: center;
 }
